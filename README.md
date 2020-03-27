@@ -6,13 +6,13 @@ This is a project is about how to verify user's email ID. When a user enter it's
 These instructions will get you a basic requirements to run this project.
 
 ### `Prerequisites`
-- Firebase
+- [**Firebase**](https://www.npmjs.com/package/firebase)
 
-### `Installation`
+## Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### 'Available Scripts'
 
 In the project directory, you can run:
 
