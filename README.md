@@ -1,6 +1,6 @@
 # Email verification with reactJs
 
-This is a project is about how to verify user's email ID. When a user enter it's email ID for signup in our web application a URL is been sent on it's email ID. If sent URL is stimulated by the user through it's email ID that means the email id that user provieded is verfied.
+This is a project is about how to verify user's email ID. When a user enter it's email ID for signup in our web application a URL is been sent on it's email ID. If sent URL is stimulated by the user through it's email ID that means the email id that user provided is verfied.
 
 ## Getting started
 These instructions will get you a basic requirements to run this project.
